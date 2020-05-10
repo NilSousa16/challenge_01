@@ -22,7 +22,7 @@ http://localhost:3333
 ```
 It can be modified in the file called `server.js`.
 
-### Testes
+### Tests
 
 To run the tests use the commands below:
 ```sh
